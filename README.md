@@ -88,3 +88,8 @@ Extras:
   </tr>
 </tbody>
 </table>
+
+
+Contacto
+Correo: luis.vasquez16@tectijuana.edu.mx
+Celular: 664-446-8***
