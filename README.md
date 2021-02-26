@@ -2,12 +2,14 @@
 
 ![](https://media.discordapp.net/attachments/720096913738694667/814666640229924884/Dark_Blue_Coworking_Simple_Presentation_2.png?width=780&height=585)
 
+Espero ser de gran ayuda en esta plataforma, cualquier duda con confianza me pueden preguntar
+
 Algunas cosas sobre mi:
 
 - :mortar_board: Estudiante del Instituto Tecnologico de Tijuana
 - :school_satchel: Cursando la carrera de Ingenieria en Sistemas Computacionales
 
-Extras
+Extras:
 - :camera: Disfruto tomar fotografias.
 - :airplane: Visitar nuevos lugares
 - :guitar: Me apasiona tocar la guitarra
