@@ -1,15 +1,15 @@
-### Hola Compañeros :point_left:
-![](https://i.imgur.com/IDMNNMD.png)
+### Hola, mi nombre es Luis Vasquez :point_left:
+![](https://media.discordapp.net/attachments/720096913738694667/814665358635433994/Dark_Blue_Coworking_Simple_Presentation.png?width=780&height=585)
 
 Algunas cosas sobre mi:
 
-- 🔭 Estudiante del Instituto Tecnologico de Tijuana
-- 🖥 Ingenieria en Sistemas Computacionales
+- :mortar_board: Estudiante del Instituto Tecnologico de Tijuana
+- :school_satchel: Cursando la carrera de Ingenieria en Sistemas Computacionales
 
 Extras
-- 🤔 Disfruto tomar fotografias.
-- 💬 Visitar nuevos lugares
-- 📫 Me apasiona tocar la guitarra
+- :camera: Disfruto tomar fotografias.
+- :airplane: Visitar nuevos lugares
+- :guitar: Me apasiona tocar la guitarra
 
 
 
