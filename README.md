@@ -1,4 +1,4 @@
-### Hola, mi nombre es Luis Vasquez :point_left:
+### Hola, mucho gusto :boom:
 ![](https://media.discordapp.net/attachments/720096913738694667/814665358635433994/Dark_Blue_Coworking_Simple_Presentation.png?width=780&height=585)
 
 Algunas cosas sobre mi:
